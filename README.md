@@ -1,0 +1,1 @@
+# ptcoin-dev-qt-winx64
